@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Proyecto 1",
+    "image": "https://courseit-statics.nyc3.digitaloceanspaces.com/blogStatics/nofoto-blog.png",
+    "links": {
+      "code": "https://github.com/juanigallo",
+      "web": "https://courseit.io"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Proyecto 2",
+    "image": "https://courseit.com.ar/static/sessions/covers/deploy-now.png",
+    "links": {
+      "code": "https://github.com/juanigallo",
+      "web": "https://courseit.io"
+    }
+  }
+]

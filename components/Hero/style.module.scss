@@ -1,0 +1,22 @@
+.container {
+  background-color: #284b63;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 300px;
+  justify-content: center;
+  h1,
+  h2 {
+    margin: 20px 10px;
+    max-width: 800px;
+    font-size: 32px;
+  }
+
+  h2 {
+    font-size: 22px;
+    text-align: justify;
+    font-weight: normal;
+  }
+}
